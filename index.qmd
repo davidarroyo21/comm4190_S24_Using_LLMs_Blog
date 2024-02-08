@@ -1,5 +1,5 @@
 ---
-title: My Blog Attempts: David Arroyo 
+title: "My Blog Attempts: David Arroyo"
 listing:
   contents: posts
   sort: date desc
