@@ -1,5 +1,5 @@
 ---
-title: About
+title: My Blog Attempts: David Arroyo 
 image: profile.jpg
 about:
   template: jolla
